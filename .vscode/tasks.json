@@ -6,7 +6,7 @@
         {
             "label": "gradle build",
             "type": "shell",
-            "command": "gradlew",
+            "command": "gradlew ",
             "group": {
                 "kind": "build",
                 "isDefault": true
