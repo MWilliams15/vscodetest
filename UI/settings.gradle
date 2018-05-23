@@ -1,0 +1,3 @@
+rootProject.name = 'ui'
+include(':contracts')
+project(':contracts').projectDir = new File('../contracts')
